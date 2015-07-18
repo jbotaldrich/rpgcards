@@ -353,5 +353,39 @@
       "item",
       "armor"
     ]
+  },
+  {
+    "count": 1,
+    "color": "dimgray",
+    "title": "Slipquick Silks",
+    "icon": "sprint",
+    "contents": [
+      "description | Description | The silks are leggings, long shirt, gloves, and cloth slippers all in deeply dyed charcoal grey.",
+      "description | Attunement | Requires a morning calisthenic routine, (Acrobatics DC 10). Takes several hours first time, can be maintained daily with no check with only 20 minutes of routine. Failure to keep schedule results in unattuning.",
+      "description | Properties | Allows the wearer to escape grapples at ADV., avoid being shoved at ADV., squeeze through narrow spaces without movement penalties, avoid damage from falling objects (75% they slip past the wearer). If slipped from attempted grapple or shove they may use their reaction like the attacker moved out of a space the wearer threatens."
+    ],
+    "tags": [
+      "item",
+      "armor"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "dimgray",
+    "title": "Coward's Shield",
+    "icon": "breastplate",
+    "contents": [
+      "subtitle | Unarmed or Improvised Attack",
+      "rule",
+      "property | Modifier | +0 for the purposes of resistances and invulnerabilities",
+      "rule",
+      "description | Description | The Coward’s Shield is a pair of gloves with enchanted steel plates on the palms.",
+      "description | Attunement | Attuned by surviving a critical hit.",
+      "description | Properties | The wearer may use a Reaction to activate an unseen barrier between them and one foe after taking a Disengage action. This barrier raises their AC by +4 and goes away at the end of their turn."
+    ],
+    "tags": [
+      "item",
+      "armor"
+    ]
   }
 ]
